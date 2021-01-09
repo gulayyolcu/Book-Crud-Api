@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "name": "Şeker Portakalı",
+      "rating": "8.7",
+      "overview": "Acı dolu bir hayat sürdürmek ve bunu yaşamın olağan seyri gibi kabul etmek, ta ki hayattaki en gerçek ve karşı konulamaz acının ne olduğunu öğrenene kadar… Şeker Portakalı; yoksulluk ve sevgisizlik içinde yaşayan küçük Zeze’nin dünyasını, okuyucusuna yalnızca minik bir çocuğun gözünden değil, evrensel bir hakikat penceresinden sunuyor.Brezilyalı yazar... ",
+      "imageURL": "https://i.idefix.com/cache/500x400-0/originals/0000000064031-1.jpg",
+      "id": 3
+    },
+    {
+      "name": "Bitkilerin Bildikleri",
+      "rating": "9",
+      "imageURL": "https://i.idefix.com/cache/600x600-0/originals/0001775344001-1.jpg",
+      "overview": "Betonun giderek yeşili yuttuğu günümüzde bile her daim bitkilerle iç içeyiz: Evlerimizi, balkonlarımızı onlarla süslüyor, sokaklarda yanlarından geçiyor, parklarda onları seyre dalıyoruz. Peki ama bitkilerin nasıl bir dünyası olduğunu hiç düşünüyor muyuz?",
+      "id": 4
+    },
+    {
+      "name": "Sarı Çiçeği Koklayan Kedi",
+      "rating": "7.3",
+      "overview": "Yaptığımız hiçbir şeyi, vardığımız sonuçlardan farklısını bekleyerek gerçekleştirmedik. O sekleyen adımlar, aslında hayallerimizin nihai amaçlarımızla dans etmeyi bilememesindendi… Bunu bilmek, bazen geçtiğimiz noktaların içimizi sızlatmasına, düştüğümüz yanlışların eksik hissettirmesine sebebiyet verse de; zamanın tüm noktalarının kesiştiği o yerde, yanlışın doğrusunu aramadığı bir yer var…",
+      "imageURL": "https://i.idefix.com/cache/600x600-0/originals/0001889814001-1.jpg",
+      "id": 5
+    },
+    {
+      "name": "Simyacı",
+      "rating": "10",
+      "imageURL": "https://img.kitapyurdu.com/v1/getImage/fn:11273967/wh:true/wi:256/pc:184",
+      "overview": "Simyacı, Brezilyalı eski şarkı sözü yazarı Paulo Coelho'nun, yayınlandığı 1988 yılından bu yana dünyayı birbirine katan, eleştirmenler tarafından bir `fenomen' olarak değerlendirilen üçüncü romanı. Simyacı, altı yılda kırk iki ülkede yedi milyondan fazla sattı. Bu, Gabriel Garcia Marquez'den bu yana görülmemiş bir olay. Yüreğinde, çocukluğunu yitirmemiş olan okurlar için bir `klasik' kimliği kazanan Simyacı'yı Saint-Exupery'nin Küçük Prens'i ve Richard Bach'ın Martı Jonathan Livingston'u ile karşılaştıranlar var.",
+      "id": 6
+    },
+    {
+      "name": "Saatleri Ayarlama Enstitüsü",
+      "rating": "9.3",
+      "imageURL": "https://img.kitapyurdu.com/v1/getImage/fn:4542435/wh:true/wi:256/pc:382",
+      "overview": "Ahmet Hamdi Tanpınar'ın şiiri sembolist bir ifade üzerine kurulmuştur. Aynı anlatım tarzı romanlarına da zaman zaman sirayet eder. Ancak muhteva açısından metafizik eğilimleri ile estetik endişelerini şiire ayırdığı halde, sosyal temalar için nesri seçmiştir. Romanları, zengin hayat hikayesinden taşarak Türkiye meselelerine kendine has yorumlar getirir.",
+      "id": 7
+    }
+  ]
+}
